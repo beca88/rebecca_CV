@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    margin: 20px auto;
     background: #204A25;
+    max-width: 800px;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -20,7 +20,7 @@ header h1 {
 }
 
 a {
-    color: #fff;
+    color: #151479;
     text-decoration: none;
 }
 
