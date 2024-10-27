@@ -8,6 +8,7 @@ body {
 }
 
 header {
+    margin: 20px auto;
     background: #204A25;
     color: #fff;
     padding: 20px;
